@@ -1,0 +1,16 @@
+torch
+torchvision
+einops
+numpy
+PyYAML
+tqdm
+pillow
+imageio
+imageio-ffmpeg
+scikit-image
+scipy
+torchmetrics
+lpips
+open-clip-torch
+matplotlib
+edge-tts

@@ -1,0 +1,34 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model outputs & checkpoints (large files)
+outputs/
+checkpoints/
+logs/
+*.pt
+*.pth
+*.ckpt
+
+# Data (add your own videos locally)
+data/videos/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
